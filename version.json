@@ -3,5 +3,5 @@
   "popup_title": "New Update Available!",
   "changelog": "- Bug fixes.\n- Added option to prevent snapping to zero coordinate.\n- Disable hip rotation estimation option added.",
   "download_url": "https://www.renderhub.com/laurendev/image-to-genesis-8-9-pose-generator",
-  "closable": false
+  "closable": true
 }

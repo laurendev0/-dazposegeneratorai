@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.0",
+  "latest_version": "1.2.0",
   "popup_title": "New Update Available!",
-  "changelog": "- Bug fixes.\n- Added option to prevent snapping to zero coordinate.\n- Disable hip rotation estimation option added.",
+  "changelog": "- Daz Pose Gen 1.1 model is now available.\n\n- Added new specialized experts on top of the 1.0 model to solve complex poses more effectively.\n- Improved consistency for head and finger positioning.\n- Prepared the architecture for the upcoming multi-person pose generation update.\n- In the next update, the tool will be able to generate pose files for multiple people in the uploaded image.\n- Various bug fixes and stability improvements.",
   "download_url": "https://www.renderhub.com/laurendev/image-to-genesis-8-9-pose-generator",
   "closable": true
 }
